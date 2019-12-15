@@ -1,6 +1,6 @@
 # APPLE ID 苹果美区账号免费分享
 
-<p>[1] 免费分享账号1：Gitwwww@gmail.com 密码：4ssGit1234</p>
+<p>[1] 免费分享账号1：Gitwwww@gmail.com 密码：V2Server</p>
 <p>[2] 免费分享账号2：4ssgit@gmail.com 密码：V2Server</p>
 <p>[3] 推荐【<a title="Shadowrocket小火箭在线安装" href="https://v2sx.github.io/ios/" target="_blank">Shadowrocket小火箭在线安装</a>】 </p>
 <p>使用共享账号请勿登录iCloud，iCloud和App Store是可以分别登陆的，共享账号只能在App Store登陆。</p>
