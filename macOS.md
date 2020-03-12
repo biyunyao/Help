@@ -5,10 +5,9 @@
 <p>[3] 图文教程-V2rayU订阅节点</p>
 <p><img src="img/m1.jpg" alt="" width="500" height="auto" /></p>
 <p><img src="img/m2.jpg" alt="" width="500" height="auto" /></p>
-<p>[4] 请务必保证本地电脑时间与UTC+8(即大陆北京时间)一致，然后打开google.com进行测试</p>
-<img src="img/w/w8.JPG" alt="" width="500" height="auto" />
-<p>[5] 注意，部分版本的订阅不支持自动配置tls，需要手动配置</p>
+<p>[4] 注意，部分版本的订阅不支持自动配置tls，需要手动配置</p>
 <img src="img/mu1.jpg" alt="" width="500" height="auto" />
-
+<p>[5] 请务必保证本地电脑时间与UTC+8(即大陆北京时间)一致，然后打开google.com进行测试</p>
+<img src="img/w/w8.JPG" alt="" width="500" height="auto" />
 
 ### [<< 返回首页](https://v2server.github.io/Help/)
